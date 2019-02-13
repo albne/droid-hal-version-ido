@@ -4,8 +4,8 @@
 %define vendor xiaomi
 
 # Manufacturer and device name to be shown in UI
-%define vendor_pretty XIAOMI
-%define device_pretty Redmi 3
+%define vendor_pretty xiaomi
+%define device_pretty redmi 3
 
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_vibrator_native 1
